@@ -11,7 +11,9 @@ The aim of the project is to extract weather data from some reliable sources and
 
 Excel Files:1. This folder contains 12 different Excel .csv having the dataset of Delhi's weather for different consecutive months for the year 2022.
               2. This folder also contains the merged data in .csv as well as in .xls format for the year 2022.
+              
 Jupiter Notebook File: This folder contains the Python code which was used to scrap the data from the website(https://www.wunderground.com/)
+
 PowerBi: This folder has the final Powerbi dashboard.
 
 **--Methodology--**
